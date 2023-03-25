@@ -3,10 +3,8 @@ Ola
 Tola
 Lola 
 Monika
-<<<<<<< HEAD
 Zola1
 Zola2 
-=======
 Zola
 Zola3 
->>>>>>> master1
+
